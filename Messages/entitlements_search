@@ -1,0 +1,87 @@
+{
+  "account": {
+    "account_state": "IDENTIFIED",
+    "admin": false,
+    "admin_read_only": false,
+    "authentications": {},
+    "avatar": null,
+    "coppa_compliant": true,
+    "coppa_updated": "2022-15-15T10:00:19.955557+00:00",
+    "country": "DE",
+    "created": "2022-15-15T10:00:19.955557+00:00",
+    "disabled": false,
+    "disabled_code": null,
+    "disabled_expiration": null,
+    "document_acceptances": [
+      {
+        "document_name": "ZeniMax Code of Conduct 1.0",
+        "document_version_id": 11,
+        "updated": "2022-15-15T10:00:19.955557+00:00"
+      },
+      {
+        "document_name": "ZeniMax Terms of Service 4.0",
+        "document_version_id": 23,
+        "updated": "2022-15-15T10:00:19.955557+00:00"
+      },
+      {
+        "document_name": "Launcher EULA 1.0",
+        "document_version_id": 37,
+        "updated": "2022-15-15T10:00:19.955557+00:00"
+      },
+      {
+        "document_name": "ZeniMax Privacy Policy 3.0",
+        "document_version_id": 39,
+        "updated": "2022-15-15T10:00:19.955557+00:00"
+      },
+      {
+        "document_name": "FO76 PC EULA 2.0",
+        "document_version_id": 41,
+        "updated": "2022-15-15T10:00:19.955557+00:00"
+      },
+      {
+        "document_name": "ZeniMax Terms of Service 5",
+        "document_version_id": 43,
+        "updated": "2022-15-15T10:00:19.955557+00:00"
+      }
+    ],
+    "email_address": "EMAIL_ADDRESS",
+    "fingerprints": [
+      {
+        "location": null,
+        "signature": "SIGNATURE"
+      }
+    ],
+    "first_name": "",
+    "generated_username": false,
+    "id": "ID",
+    "language": "de",
+    "last_name": "",
+    "limited": false,
+    "location": null,
+    "login_username": "PLAYER_USERNAME",
+    "merge_target": null,
+    "merged": false,
+    "mfa_enabled": false,
+    "motto": null,
+    "news_offers_opt_in": false,
+    "opt_outs": [],
+    "otp_disabled": false,
+    "roles": [
+      "user"
+    ],
+    "secret_1_question": 11,
+    "secret_2_question": null,
+    "sms_enabled_number": null,
+    "status": {
+      "account_type": "full",
+      "missing_legal_documents": false,
+      "needs_device_verification": false,
+      "outside_grace_period": false,
+      "verified": true
+    },
+    "third_party_marketing_opt_in": true,
+    "updated": "2022-15-15T10:00:19.955557+00:00",
+    "username": "PLAYER_USERNAME",
+    "verified": true
+  }
+}

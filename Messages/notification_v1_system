@@ -1,0 +1,35 @@
+{
+  "code": 18000,
+  "response": [
+    {
+      "id": 16479,
+      "name": "Friend",
+      "description": "Friend system"
+    },
+    {
+      "id": 4334,
+      "name": "GSP",
+      "description": "GSP Python Core: Profiles, Achievements, Leaderboards"
+    },
+    {
+      "id": 1219,
+      "name": "Matchmaking",
+      "description": "Matchmaking"
+    },
+    {
+      "id": 24697,
+      "name": "nat_traversal",
+      "description": "NAT Traversal"
+    },
+    {
+      "id": 11727,
+      "name": "Presence",
+      "description": "Presence system"
+    },
+    {
+      "id": 14301,
+      "name": "VCCS",
+      "description": "Virtual Currency"
+    }
+  ]
+}

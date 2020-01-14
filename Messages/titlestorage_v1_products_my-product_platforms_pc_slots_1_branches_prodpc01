@@ -1,0 +1,23 @@
+{
+  "platform": {
+    "message": "success",
+    "code": 2000,
+    "response": {
+      "slot": 1,
+      "status": 1,
+      "last_updated": "Tue Dec 15 15:15:15 2025",
+      "ctime": 1777777777,
+      "entitlement": null,
+      "checksum": "CHECKSUM",
+      "download_url": "http://192.168.178.90/public/ID_1/pc/1/prodpc01/ID_2",
+      "filename": "public/ID_1/pc/1/prodpc01/ID_2",
+      "upload_id": 13337,
+      "build": null,
+      "branch": "prodpc01",
+      "version_id": "VERSION_ID",
+      "size": 2112.0,
+      "public": 1,
+      "utime": 1575990739
+    }
+  }
+}

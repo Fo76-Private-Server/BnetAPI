@@ -1,0 +1,82 @@
+{
+  "regions": [
+    {
+      "ping_url": "http://192.168.178.90/ping",
+      "services": [
+        {
+          "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+          "name": "bps-gatewayreg",
+          "url": "http://192.168.178.90"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "ping_url": "http://192.168.178.90/ping",
+      "services": [
+        {
+          "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+          "name": "bps-gatewayreg",
+          "url": "http://192.168.178.90"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "ping_url": "http://192.168.178.90/ping",
+      "services": [
+        {
+          "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+          "name": "bps-gatewayreg",
+          "url": "http://192.168.178.90"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "matchmakers": [
+    {
+      "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+      "regions": [
+        {
+          "ping_url": "http://192.168.178.90/ping",
+          "id": 6
+        },
+        {
+          "ping_url": "http://192.168.178.90/ping",
+          "id": 2
+        },
+        {
+          "ping_url": "http://192.168.178.90/ping",
+          "id": 11
+        }
+      ],
+      "url": "http://192.168.178.90",
+      "id": 2
+    }
+  ],
+  "global": {
+    "services": [
+      {
+        "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+        "name": "bps-loginqueue",
+        "url": "http://192.168.178.90"
+      },
+      {
+        "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+        "name": "bps-gateway",
+        "url": "http://192.168.178.90"
+      },
+      {
+        "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+        "name": "bps-bigateway",
+        "url": "http://192.168.178.90"
+      },
+      {
+        "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+        "name": "bps-pushy",
+        "url": "http://192.168.178.90"
+      }
+    ]
+  }
+}

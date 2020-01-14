@@ -1,0 +1,13 @@
+{
+  "character_id": 1,
+  "character": {
+    "id": 1,
+    "name": "",
+    "level": 0,
+    "overseer_rank": 0,
+    "is_complete": false,
+    "created": 0,
+    "updated": 0,
+    "region": 0
+  }
+}

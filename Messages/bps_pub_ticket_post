@@ -1,0 +1,6 @@
+{
+  "ticket_token": "JWT_TICKET",
+  "queue_pos": 0,
+  "psplus_required": false,
+  "poll_interval": 1000000000
+}

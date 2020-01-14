@@ -1,0 +1,17 @@
+{
+  "event": "matchmake.success",
+  "ack": 1,
+  "msg": {
+    "request_id": "ffffffff-ffff-ffff-ffff-ffffffffffff",
+    "world_id": 533045303642180559,
+    "ticket": "JWT_TICKET",
+    "address": "127.0.0.1",
+    "port": 3001,
+    "key": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ",
+    "world_type": 1,
+    "region": 2,
+    "world_region": 6,
+    "is_owner": false
+  },
+  "headers": {}
+}

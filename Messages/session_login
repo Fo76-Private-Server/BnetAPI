@@ -1,0 +1,19 @@
+{
+  "platform": {
+    "message": "success",
+    "code": 2000,
+    "response": {
+      "username": "PLAYER_USERNAME",
+      "refresh_time": 1777777777,
+      "application_id": "APP_ID",
+      "session_type": "basic",
+      "external_account": {},
+      "buid": "BUID",
+      "time_to_refresh": 3600,
+      "session_token": "SESSION_TOKEN",
+      "time_to_expire": 7200,
+      "exp": 1578852054,
+      "master_account_id": "MASTER_ACCOUNT_ID"
+    }
+  }
+}

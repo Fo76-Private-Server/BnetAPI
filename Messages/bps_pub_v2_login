@@ -1,0 +1,9 @@
+{
+  "id": 0,
+  "username": "PLAYER_USERNAME",
+  "session_id": "SESSION_ID",
+  "avatar_id": 1,
+  "token": "JWT_TOKEN",
+  "ent_status": 1,
+  "fo1_access": false
+}

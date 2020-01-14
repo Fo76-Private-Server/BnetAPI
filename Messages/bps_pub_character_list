@@ -1,0 +1,14 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "PLAYER_CHARACTER",
+      "level": 99,
+      "overseer_rank": 0,
+      "is_complete": true,
+      "created": 1500000000000,
+      "updated": 1500000000000,
+      "region": 2
+    }
+  ]
+}

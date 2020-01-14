@@ -1,0 +1,7 @@
+{
+  "message": "User presence status has been added or updated",
+  "code": 20001,
+  "response": {
+    "time_to_expire": 43200
+  }
+}

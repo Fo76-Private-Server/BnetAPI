@@ -1,0 +1,9 @@
+{
+  "platform": {
+    "message": "success",
+    "code": 2000,
+    "response": {
+      "url": "https://bethesda.net/de/store/fallout76/subscription?authCode=AUTH_CODE"
+    }
+  }
+}

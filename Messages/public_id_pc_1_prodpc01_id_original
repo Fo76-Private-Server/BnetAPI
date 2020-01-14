@@ -1,0 +1,82 @@
+{
+  "regions": [
+    {
+      "ping_url": "http://ap-southeast-2-prod-prodpc01-reg-httpping.p76prod.systems/ping",
+      "services": [
+        {
+          "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+          "name": "bps-gatewayreg",
+          "url": "https://ap-southeast-2-prod-prodpc01-reg-bps-gatewayreg.p76prod.systems"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "ping_url": "http://eu-central-1-prod-prodpc01-reg-httpping.p76prod.systems/ping",
+      "services": [
+        {
+          "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+          "name": "bps-gatewayreg",
+          "url": "https://eu-central-1-prod-prodpc01-reg-bps-gatewayreg.p76prod.systems"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "ping_url": "http://us-east-1-prod-prodpc01-reg-httpping.p76prod.systems/ping",
+      "services": [
+        {
+          "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+          "name": "bps-gatewayreg",
+          "url": "https://us-east-1-prod-prodpc01-reg-bps-gatewayreg.p76prod.systems"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "matchmakers": [
+    {
+      "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+      "regions": [
+        {
+          "ping_url": "http://eu-central-1-prod-prodpc01-reg-httpping.p76prod.systems/ping",
+          "id": 6
+        },
+        {
+          "ping_url": "http://us-east-1-prod-prodpc01-reg-httpping.p76prod.systems/ping",
+          "id": 2
+        },
+        {
+          "ping_url": "http://ap-southeast-2-prod-prodpc01-reg-httpping.p76prod.systems/ping",
+          "id": 11
+        }
+      ],
+      "url": "https://us-east-1-prod-prodpc01-reg-bps-gatewayreg.p76prod.systems",
+      "id": 2
+    }
+  ],
+  "global": {
+    "services": [
+      {
+        "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+        "name": "bps-loginqueue",
+        "url": "https://us-east-2-prod-prodpc01-glb-bps-loginqueue.p76prod.systems"
+      },
+      {
+        "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+        "name": "bps-gateway",
+        "url": "https://us-east-2-prod-prodpc01-glb-bps-gateway.p76prod.systems"
+      },
+      {
+        "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+        "name": "bps-bigateway",
+        "url": "https://us-east-2-prod-prodpc01-glb-bps-bigateway.p76prod.systems"
+      },
+      {
+        "pubkey": "WY*Nhx$kk@PTTz7Ykp*t!q#*8taRR84ZnyT7Rjqc%^39!7zx5GdYa!HSmpM^KQ!D",
+        "name": "bps-pushy",
+        "url": "https://us-east-2-prod-prodpc01-glb-bps-pushy.p76prod.systems"
+      }
+    ]
+  }
+}
